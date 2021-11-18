@@ -1,1 +1,1 @@
-This is a initial test of a readme file. Will and content later.
+Step IT. Java course. Java is an awesome programming message.
